@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1783",
+  "format": "PC360K",
   "hash": "none",
   "checksum": -260790094,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1783 --output DISK1783.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

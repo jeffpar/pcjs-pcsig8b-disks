@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1058",
+  "format": "PC360K",
   "hash": "none",
   "checksum": 1053537277,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1058 --output DISK1058.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

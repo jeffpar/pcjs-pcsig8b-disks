@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1520",
+  "format": "PC360K",
   "hash": "none",
   "checksum": -513957499,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1520 --output DISK1520.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

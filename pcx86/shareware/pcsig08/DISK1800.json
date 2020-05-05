@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1800",
+  "format": "PC320K",
   "hash": "none",
   "checksum": -983112662,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1800 --output DISK1800.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

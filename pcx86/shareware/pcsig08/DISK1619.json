@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1619",
+  "format": "PC360K",
   "hash": "none",
   "checksum": -1792877669,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1619 --output DISK1619.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

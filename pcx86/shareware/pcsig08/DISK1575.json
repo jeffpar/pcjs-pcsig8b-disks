@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1575",
+  "format": "PC320K",
   "hash": "none",
   "checksum": -1460762813,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1575 --output DISK1575.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

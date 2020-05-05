@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK2065",
+  "format": "PC360K",
   "hash": "none",
   "checksum": 457708026,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK2065 --output DISK2065.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

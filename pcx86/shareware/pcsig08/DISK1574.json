@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1574",
+  "format": "PC360K",
   "hash": "none",
   "checksum": 992871741,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1574 --output DISK1574.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

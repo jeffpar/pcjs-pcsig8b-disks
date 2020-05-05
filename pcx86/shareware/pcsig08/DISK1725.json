@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1725",
+  "format": "PC320K",
   "hash": "none",
   "checksum": 221416802,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1725 --output DISK1725.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

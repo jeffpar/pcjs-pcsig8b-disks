@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK2020",
+  "format": "PC160K",
   "hash": "none",
   "checksum": -1276919146,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 163840,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK2020 --output DISK2020.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1993",
+  "format": "PC360K",
   "hash": "none",
   "checksum": 1533500391,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1993 --output DISK1993.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

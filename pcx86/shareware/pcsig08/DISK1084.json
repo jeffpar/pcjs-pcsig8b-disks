@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1084",
+  "format": "PC320K",
   "hash": "none",
   "checksum": 1535663116,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1084 --output DISK1084.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

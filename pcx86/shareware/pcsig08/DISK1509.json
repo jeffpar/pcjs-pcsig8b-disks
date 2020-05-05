@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1509",
+  "format": "PC160K",
   "hash": "none",
   "checksum": 446169104,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 163840,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1509 --output DISK1509.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

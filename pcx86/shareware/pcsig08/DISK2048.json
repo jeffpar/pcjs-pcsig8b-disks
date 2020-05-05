@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK2048",
+  "format": "PC320K",
   "hash": "none",
   "checksum": 918021529,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK2048 --output DISK2048.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

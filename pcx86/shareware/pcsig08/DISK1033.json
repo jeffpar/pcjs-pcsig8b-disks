@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK1033",
+  "format": "PC360K",
   "hash": "none",
   "checksum": 868279598,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK1033 --output DISK1033.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {
