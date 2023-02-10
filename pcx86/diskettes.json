@@ -1,6 +1,5 @@
 {
-  "@local": "/pcsig8b-disks",
-  "@server": "https://pcsig8b-disks.pcjs.org",
+  "@server": "/pcsig8b-disks",
   "shareware": {
     "@title": "PCSIG8B Disks",
     "@versions": {
