@@ -11,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.10",
-  "repository": "pcjs.org",
-  "archive": "/pcsig8b-disks/pcx86/shareware/pcsig08/archive/DISK1125/"
+  "repository": "pcjs.org"
 },
 "volTable": [
  {
