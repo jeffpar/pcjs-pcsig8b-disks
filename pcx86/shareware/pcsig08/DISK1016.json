@@ -37,7 +37,18 @@
   {"hash":"c86f6bfdd210b2045102428cd68ecb73","path":"/GO.TXT","attr":"0x20","date":"1988-02-10 02:23:04","size":463},
   {"hash":"a4e059492d59e0efa06d8265fec6e038","path":"/PCCU.ZIP","attr":"0x20","date":"1989-06-16 08:21:06","size":232407},
   {"hash":"4e2e0d2022e8695afdde8ed36aca00c0","path":"/READ.ME","attr":"0x20","date":"1989-06-16 08:19:14","size":32000},
-  {"hash":"7178d673f2fb066d12d2f15c88dad133","path":"/VENDOR.DOC","attr":"0x20","date":"1989-06-16 08:19:14","size":1152}
+  {"hash":"7178d673f2fb066d12d2f15c88dad133","path":"/VENDOR.DOC","attr":"0x20","date":"1989-06-16 08:19:14","size":1152},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/CONVERT.EXE","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"62dbb320e96d291bfb24d1a2f622b92e","path":"/PCCU.ZIP/FILES","attr":"0x40","date":"1989-06-16 22:19:30","size":4352},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/LOAN.PCC","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/MSHERC.COM","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/P90.EXE","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/PCG2.EXE","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"ed07a4dba4c778ad0e510343f2c2bb58","path":"/PCCU.ZIP/PRODUCTS","attr":"0x40","date":"1989-06-16 22:19:30","size":5376},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/READ.ME","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"d8538c67864a1551cd4d808d506cc1ad","path":"/PCCU.ZIP/RESPONSE","attr":"0x40","date":"1989-06-16 22:19:30","size":3584},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/SAMPLE.MAC","attr":"0x40","date":"2023-03-03 18:13:47"},
+  {"hash":"d41d8cd98f00b204e9800998ecf8427e","path":"/PCCU.ZIP/TUTORIAL.PCC","attr":"0x40","date":"2023-03-03 18:13:47"}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

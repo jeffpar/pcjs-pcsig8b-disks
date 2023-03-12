@@ -39,7 +39,19 @@
   {"hash":"e53a79e51a19a558a1c61fb7fcc11be9","path":"/FILE1231.TXT","attr":"0x20","date":"1988-12-12 13:35:32","size":2999},
   {"hash":"07c3cbe0ee6fad46513fc9ce4efbdd97","path":"/README1.AGT","attr":"0x20","date":"1988-05-29 10:54:20","size":4872},
   {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/UNARC.COM","attr":"0x20","date":"1987-04-27 00:00:00","size":12242},
-  {"hash":"0cd3cab5e02b1d13aa7aa3b90110933c","path":"/UNDE-SRC.ARC","attr":"0x20","date":"1987-06-10 20:21:42","size":20377}
+  {"hash":"0cd3cab5e02b1d13aa7aa3b90110933c","path":"/UNDE-SRC.ARC","attr":"0x20","date":"1987-06-10 20:21:42","size":20377},
+  {"hash":"36c8032154ab0f7b0456389cfafc38e9","path":"/AGT-DOC.ARC/AGT-DOC.TXT","attr":"0x40","date":"1988-05-29 12:17:12","size":238925},
+  {"hash":"10dd560c3bc2dac943b3f6b4e561eb07","path":"/AGT.ARC/COMPILE.EXE","attr":"0x40","date":"1988-05-21 20:31:26","size":61424},
+  {"hash":"5c6b60edc655f47359811fae9f911757","path":"/AGT.ARC/ORDERFRM.AGT","attr":"0x40","date":"1988-05-29 01:35:00","size":4826},
+  {"hash":"b23d65eab1ebf0bdab20dcce86896ccc","path":"/AGT.ARC/RUN.EXE","attr":"0x40","date":"1988-05-21 20:32:06","size":119664},
+  {"hash":"96d12f3446048de53bcfa48baa1d617d","path":"/AGTBLURB.ARC/AGTBLURB.TXT","attr":"0x40","date":"1988-05-29 15:04:58","size":36976},
+  {"hash":"a8be0eb827b4fc1e5d0f3511ca066857","path":"/CAVE-SRC.ARC/CAVE.CMD","attr":"0x40","date":"1988-02-16 01:50:10","size":64470},
+  {"hash":"7cbf8754de5259be4e40914b1a60eea2","path":"/CAVE-SRC.ARC/CAVE.DAT","attr":"0x40","date":"1988-05-29 01:48:30","size":66736},
+  {"hash":"26ec504fd9da75dff8db5175c6079585","path":"/CAVE-SRC.ARC/CAVE.INS","attr":"0x40","date":"1988-01-17 06:06:44","size":2679},
+  {"hash":"e440b8e47bc60b12283954b05fbc5310","path":"/CAVE-SRC.ARC/CAVE.MSG","attr":"0x40","date":"1987-06-20 23:32:02","size":26877},
+  {"hash":"8ea44dfe2ce6af31b376f9c253928adf","path":"/CAVE-SRC.ARC/CAVE.TTL","attr":"0x40","date":"1988-01-19 04:36:36","size":261},
+  {"hash":"165915f6f68d4e49b4ef12c271949eed","path":"/UNDE-SRC.ARC/UNDERGND.DAT","attr":"0x40","date":"1985-08-24 20:25:04","size":40618},
+  {"hash":"bb75c1aeb1514269b353a7412c6031c1","path":"/UNDE-SRC.ARC/UNDERGND.TTL","attr":"0x40","date":"1987-06-11 03:21:42","size":321}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

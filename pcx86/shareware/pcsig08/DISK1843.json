@@ -35,7 +35,22 @@
   {"hash":"8c7d23af9a0d9b5d9b7b68f7641d13cc","path":"/EIMS.ARC","attr":"0x20","date":"1989-08-18 19:19:26","size":211530},
   {"hash":"ed1aa332c608c5a157673c354fb18958","path":"/FILE1843.TXT","attr":"0x20","date":"1989-12-22 02:48:00","size":2221},
   {"hash":"09c8206644019d4d3b0348a3cdff02d3","path":"/GO.BAT","attr":"0x20","date":"1980-12-31 17:37:06","size":38},
-  {"hash":"17d82401c37f0509b067933f9075be66","path":"/GO.TXT","attr":"0x20","date":"1980-12-31 16:47:18","size":694}
+  {"hash":"17d82401c37f0509b067933f9075be66","path":"/GO.TXT","attr":"0x20","date":"1980-12-31 16:47:18","size":694},
+  {"hash":"2646b915fcddf160b6f7700d97187aa1","path":"/EIMS.ARC/DESCFIL.DAT","attr":"0x40","date":"1989-08-11 14:42:34","size":444},
+  {"hash":"1e30fa21b7857b1e08bf04f3a61b5f2d","path":"/EIMS.ARC/DESCFIL.K01","attr":"0x40","date":"1989-08-11 02:20:20","size":1024},
+  {"hash":"8476f5dc669ac4be255cc17ce9502979","path":"/EIMS.ARC/EIMS.DOC","attr":"0x40","date":"1989-08-19 09:18:08","size":14132},
+  {"hash":"fada0b5928b9feb2593f4de8a1369b36","path":"/EIMS.ARC/EIMS.EXE","attr":"0x40","date":"1989-08-11 14:29:48","size":297730},
+  {"hash":"c883ce2b06f42001eef02d0b29a2347c","path":"/EIMS.ARC/LOCATES.DAT","attr":"0x40","date":"1989-08-11 14:42:34","size":167},
+  {"hash":"90a62b039fae06541d9cc861bc94f1ee","path":"/EIMS.ARC/LOCATES.K01","attr":"0x40","date":"1989-08-11 00:08:08","size":1024},
+  {"hash":"9b90947090ec9e22f552d67cda8084af","path":"/EIMS.ARC/TRANS.DAT","attr":"0x40","date":"1989-08-11 14:42:34","size":330},
+  {"hash":"3a981dde84a22f6848275d1586755a7a","path":"/EIMS.ARC/TRANS.K01","attr":"0x40","date":"1989-08-10 23:48:34","size":1024},
+  {"hash":"b2d359d05de73b5a090cec7d1eb3ee2e","path":"/EIMS.ARC/TRANS.K02","attr":"0x40","date":"1989-08-10 23:48:34","size":1024},
+  {"hash":"e64d65a7f31056910939960e20452d40","path":"/EIMS.ARC/TSMAINT.DAT","attr":"0x40","date":"1989-08-11 14:42:34","size":1307},
+  {"hash":"27545604d14b5dcf8c78dcd8d19ab918","path":"/EIMS.ARC/TSMAINT.K01","attr":"0x40","date":"1989-08-11 02:20:20","size":1024},
+  {"hash":"6383c3f06b477049405e21a8aaac7244","path":"/EIMS.ARC/TSMAINT.K02","attr":"0x40","date":"1989-08-11 02:20:20","size":1024},
+  {"hash":"7dba4a3d868ea39ad0959035b67b2328","path":"/EIMS.ARC/TSMAST.DAT","attr":"0x40","date":"1989-08-11 14:42:34","size":777},
+  {"hash":"d3e32bf4b60a96b8a3f26a8e28b60385","path":"/EIMS.ARC/TSMAST.K01","attr":"0x40","date":"1989-08-11 00:08:08","size":1024},
+  {"hash":"4cbf5b81f925f67aa140d5a02613096d","path":"/EIMS.ARC/TSMAST.K02","attr":"0x40","date":"1989-08-11 00:08:08","size":1024}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

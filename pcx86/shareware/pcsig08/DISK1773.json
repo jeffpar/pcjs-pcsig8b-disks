@@ -44,7 +44,21 @@
   {"hash":"213f8a2452fd98d60a6a4d1d331c2e00","path":"/INSTALL.BAT","attr":"0x20","date":"1989-07-05 02:20:00","size":21249},
   {"hash":"292d383dc6e45a65cd2092055b5587c1","path":"/README.1ST","attr":"0x20","date":"1989-09-06 02:21:00","size":2535},
   {"hash":"bbb1f7ba2d8c725f1dc5cd0a0070d890","path":"/SYSOP.DOC","attr":"0x20","date":"1989-07-05 02:20:00","size":4151},
-  {"hash":"5147873e3c8a8dbd807c50214e15baf4","path":"/VENDOR.DOC","attr":"0x20","date":"1989-07-05 02:20:00","size":3607}
+  {"hash":"5147873e3c8a8dbd807c50214e15baf4","path":"/VENDOR.DOC","attr":"0x20","date":"1989-07-05 02:20:00","size":3607},
+  {"hash":"d20ad32cb30fc96168d0c884639db46e","path":"/4DDOC.ARC/4DOS.DOC","attr":"0x40","date":"1989-07-05 09:20:00","size":194328},
+  {"hash":"85c70d3246d4f2c8bcfce65549995d6d","path":"/4DOS.ARC/4D-PIF.DVP","attr":"0x40","date":"1989-07-05 09:20:00","size":416},
+  {"hash":"e2f18b207b278227321805380839a7ca","path":"/4DOS.ARC/4DOS.COM","attr":"0x40","date":"1989-09-06 09:21:00","size":8883},
+  {"hash":"cf73287bf2357ab243abb5b4b76d979a","path":"/4DOS.ARC/ALIASES.BAT","attr":"0x40","date":"1989-07-05 09:20:00","size":8274},
+  {"hash":"6dda4d4c2d468f393f7910aaec9e4b64","path":"/4DOS.ARC/ARC-E.DOC","attr":"0x40","date":"1988-05-31 03:18:00","size":11400},
+  {"hash":"1388a90aea0b54f1b04e08a8a584ca2d","path":"/4DOS.ARC/CHANGE.LOG","attr":"0x40","date":"1989-09-06 09:21:00","size":26448},
+  {"hash":"49b79989a66d0df4e174b1fdd8321f89","path":"/4DOS.ARC/FIXSTACK.DOC","attr":"0x40","date":"1989-07-05 09:20:00","size":2026},
+  {"hash":"9cd93bc07b72bdea4f34960566a923b5","path":"/4DOS.ARC/FIXSTACK.EXE","attr":"0x40","date":"1989-07-05 09:20:00","size":12163},
+  {"hash":"237cc2c40cfae923c23a9e197458aaa6","path":"/4DOS.ARC/KEYSTACK.SYS","attr":"0x40","date":"1989-07-05 09:20:00","size":988},
+  {"hash":"b44f15a3ab101652f88e36567cbf99d0","path":"/4DOS.ARC/README.DOC","attr":"0x40","date":"1989-07-05 09:20:00","size":59548},
+  {"hash":"5ddcad1ad26160a277bc88f39dc06ce7","path":"/4DOS.ARC/REGISTER.FRM","attr":"0x40","date":"1989-07-05 09:20:00","size":11700},
+  {"hash":"5d10ab040e8b1ac24df57b493b079820","path":"/4DOS.ARC/UPDATE22.DOC","attr":"0x40","date":"1989-09-06 09:21:00","size":17278},
+  {"hash":"bd1c9dd8b55575c6a3d30be513b5b2c7","path":"/DOSHELP.ARC/DOS.HLP","attr":"0x40","date":"1989-09-06 09:21:00","size":80142},
+  {"hash":"bde523b77d04cca2d27858bbeb88a255","path":"/DOSHELP.ARC/HELP.EXE","attr":"0x40","date":"1989-07-05 09:20:00","size":22301}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

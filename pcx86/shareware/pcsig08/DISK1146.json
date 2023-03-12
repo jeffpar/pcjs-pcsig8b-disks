@@ -48,7 +48,19 @@
   {"hash":"85414792c9ca0e389cee036288d86cc1","path":"/MANUAL.BAT","attr":"0x20","date":"1988-10-03 08:36:10","size":152},
   {"hash":"90a0dbcf7af476d27105dd45e1bc26d7","path":"/MENU.1","attr":"0x20","date":"1988-04-20 14:30:24","size":128},
   {"hash":"01d0265918228e962367d5d04d6c409d","path":"/README.DOC","attr":"0x20","date":"1988-05-14 12:47:22","size":9594},
-  {"hash":"339934b5ad29bd1d3319eb9dd2b9ef1f","path":"/REGISTR.LOG","attr":"0x20","date":"1988-05-07 02:32:02","size":20}
+  {"hash":"339934b5ad29bd1d3319eb9dd2b9ef1f","path":"/REGISTR.LOG","attr":"0x20","date":"1988-05-07 02:32:02","size":20},
+  {"hash":"06bfc86ad4b82d40a2aeec480d5c9cd7","path":"/LOGIN.ARC/AUTH.ID","attr":"0x40","date":"1988-04-21 04:33:34","size":128},
+  {"hash":"9e7d4a30c77ee2ce8956e5c36b2b45ae","path":"/LOGIN.ARC/AUTOLOG.TXT","attr":"0x40","date":"1988-04-10 16:14:16","size":23},
+  {"hash":"60ed70266035d098291f97495b90c607","path":"/LOGIN.ARC/C.BAT","attr":"0x40","date":"1988-05-10 14:26:40","size":13},
+  {"hash":"79f260d54a523fb88d2e2d9cad1dc688","path":"/LOGIN.ARC/FILES.DOC","attr":"0x40","date":"1988-04-22 13:00:56","size":896},
+  {"hash":"1dce92963f8ef9312f213bb9970b40c3","path":"/LOGIN.ARC/INITIAL.EXE","attr":"0x40","date":"1988-05-07 16:34:16","size":54145},
+  {"hash":"ea7faeed2d77be8463c92ed218e747c8","path":"/LOGIN.ARC/INSTALL.BAT","attr":"0x40","date":"1988-04-21 04:39:48","size":384},
+  {"hash":"c560e9e2c9ff9be61595bc276ab31de1","path":"/LOGIN.ARC/LN1.TXT","attr":"0x40","date":"1988-04-21 04:31:30","size":19},
+  {"hash":"dc165a1e20dd7c71da5ea6c71ee5bfed","path":"/LOGIN.ARC/LOG.EXE","attr":"0x40","date":"1988-05-09 02:54:42","size":65899},
+  {"hash":"23287c1a05be62249d79a86b096067cd","path":"/LOGIN.ARC/LOG.INI","attr":"0x40","date":"1988-05-01 16:55:48","size":256},
+  {"hash":"90a0dbcf7af476d27105dd45e1bc26d7","path":"/LOGIN.ARC/MENU.1","attr":"0x40","date":"1988-04-21 04:30:48","size":128},
+  {"hash":"01d0265918228e962367d5d04d6c409d","path":"/LOGIN.ARC/README.DOC","attr":"0x40","date":"1988-05-15 02:47:46","size":9594},
+  {"hash":"339934b5ad29bd1d3319eb9dd2b9ef1f","path":"/LOGIN.ARC/REGISTR.LOG","attr":"0x40","date":"1988-05-07 16:32:04","size":20}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},
