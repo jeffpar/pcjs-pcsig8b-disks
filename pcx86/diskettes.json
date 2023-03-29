@@ -1,5 +1,5 @@
 {
-  "@server": "/pcsig8b-disks",
+  "@server": "/disks/pcsig8b-disks",
   "shareware": {
     "@title": "PCSIG8B Disks",
     "@versions": {
